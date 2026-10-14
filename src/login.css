@@ -1,0 +1,17 @@
+.box {
+    width: 300px;
+}
+.box button {
+    width: 100%
+}
+
+.box input[type="email"],
+.box input[type="password"] {
+    width: 100%;
+}
+    
+.esqueceu-senha {
+    float: right; /*usa o float, o text-align só em titulos e parágrafos*/
+    font-size: 13px;
+}
+
